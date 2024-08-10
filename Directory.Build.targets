@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <AssemblyName>Prefix.$(AssemblyName)</AssemblyName>
+  </PropertyGroup>
+</Project>
